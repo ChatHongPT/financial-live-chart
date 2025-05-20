@@ -1,4 +1,4 @@
-package com.example.demo.Controller;
+package chart.financial_live_chart.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

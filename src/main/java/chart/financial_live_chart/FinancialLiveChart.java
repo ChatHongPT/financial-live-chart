@@ -1,11 +1,11 @@
-package com.example.demo;
+package chart.financial_live_chart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class FinancialLiveChart {
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(FinancialLiveChart.class, args);
     }
 }
